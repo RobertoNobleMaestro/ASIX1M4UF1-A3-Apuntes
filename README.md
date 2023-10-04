@@ -37,3 +37,10 @@ Esto sirve para visualizar el codigo y que no se ejecute:
 ```
 [Esto es un enlace](https://joan23.fje.edu "Enlace a la web del cole")
 ![Esto es una imagen del cielo](https://github.com/RobertoNobleMaestro/ASIX1M4UF1-A3-Apuntes/blob/main/cielo.jpg "Este es el cielo de murcia")
+
+|Primera col|Segunda col|Tres col|
+|---------------|:----------:|---------:|
+|Col 2 es|Centrada|35€|
+|Col 3 es|Derecha|134€|
+|Estilo cebra|Gris|Blanco|
+|Clase|ASIX1|M4|
