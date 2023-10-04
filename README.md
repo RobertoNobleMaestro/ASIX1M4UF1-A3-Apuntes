@@ -44,3 +44,7 @@ Esto sirve para visualizar el codigo y que no se ejecute:
 |Col 3 es|Derecha|134€|
 |Estilo cebra|Gris|Blanco|
 |Clase|ASIX1|M4|
+
+-[] Opción A
+-[X] Opción B
+-[] Opción C
