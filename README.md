@@ -50,3 +50,11 @@ Esto sirve para visualizar el codigo y que no se ejecute:
 -[X] Opción B
 
 -[] Opción C
+
+Ej:
+´´´
+<p>hola buenas <strong>tardes</strong></p>
+´´´
+La etiqueta ´´´<img>´´´ no se puede anidar, Su estructura típica es simplemente.
+
+´´´<img src="ruta_de_la_imagen" alt="texto_alternativo">´´´
